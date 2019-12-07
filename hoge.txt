@@ -1,5 +1,5 @@
 abcde & 77777
 12345
 aiueo
-Bravo
+Bravoi $ hoge
 Delta
