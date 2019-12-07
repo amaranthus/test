@@ -1,4 +1,4 @@
-abcde aaaaa & 77777
+abcde & 77777
 12345
 aiueo & aaaaa
 Bravo
